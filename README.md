@@ -6,7 +6,6 @@ Curated for:
 - Clean Code
 - Clean Architecture
 - Tech Lead workflows
-- CoreMedia projects
 
 Usage:
 - Copy individual folders into your agent skill directory.
