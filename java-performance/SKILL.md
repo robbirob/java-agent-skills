@@ -1,3 +1,8 @@
+---
+name: java-performance
+description: "Use when reviewing Java code for performance risks including inefficient persistence access, collection usage, streams, synchronization, and caching."
+---
+
 # Java Performance Review
 
 CHECK:

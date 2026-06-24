@@ -1,3 +1,8 @@
+---
+name: tech-lead-review
+description: "Use when performing a tech lead review for maintainability, deployment risk, monitoring, logging, and failure scenarios."
+---
+
 # Tech Lead Review
 
 QUESTIONS:

@@ -1,3 +1,8 @@
+---
+name: clean-architecture
+description: "Use when reviewing Java applications for Clean Architecture boundaries and framework-free domain logic."
+---
+
 # Clean Architecture Enforcer
 
 RULES:

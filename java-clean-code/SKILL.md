@@ -1,3 +1,8 @@
+---
+name: java-clean-code
+description: "Use when reviewing created or modified Java code for clean code issues such as long methods, naming, duplication, and complexity."
+---
+
 # Java Clean Code Review
 
 WHEN:
